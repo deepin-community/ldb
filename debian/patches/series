@@ -1,0 +1,7 @@
+01_manpage_dates
+02_hurd
+Skip-test_guid_indexed_v1_db-on-mips64el-ppc64el-ia6.patch
+Fix-FTBFS-Increase-the-over-estimation-for-sparse-fi.patch
+Skip-ldb_lmdb_free_list_test-on-ppc64el-ppc64-and-sp.patch
+Skip_failing_tests.diff
+add-sunway-support.patch
